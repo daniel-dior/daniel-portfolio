@@ -221,7 +221,7 @@
      height: 100vh;
      z-index: 1000;
      overflow-x: hidden;
-     background-color: grey;
+     background-color: white;
      transition: .2s display;
      transform: translate(-50%, 0%);
  }
