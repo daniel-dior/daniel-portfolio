@@ -9,7 +9,7 @@
 
  /* VARIABLES  */
  :root {
-     --MAINBG-CLR: hsl(223, 7%, 19%);
+     --MAINBG-CLR:rgb(7,20,55);
      --BLACK-CLR: hsl(0, 0%, 0%);
      --WHITE-CLR: rgb(255, 255, 255);
      --LIGHT-WHITE-CLR: rgba(97, 92, 92, 0.331);
